@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var_dump(Math.E);
 var_dump(Math.round(5.55557));
 

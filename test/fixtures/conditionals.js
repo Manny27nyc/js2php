@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var x = 1, y = 50;
 var ternary = (x == 1) ? "Yes" : "No"
 

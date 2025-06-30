@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var str = "Hello";
 echo("    trimmed    ".trim().trim().substr(1).trim().trim().trim());
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 class Klass {
   without_params() {
     return "I'm a method without params."

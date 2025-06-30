@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 class Page {
   read(name = "Page") {
     echo(`${name} read.\n`);

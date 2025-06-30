@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 items = [1,2,3,4,5];
 
 for (var i=0; i < items.length; i++) {

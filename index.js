@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var core = require('./core'),
     scope = require('./scope'),
     utils = require('./utils'),

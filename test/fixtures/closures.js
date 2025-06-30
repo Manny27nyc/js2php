@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 d = 10;
 var closure = function(a) {
   var c = 1;

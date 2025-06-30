@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var assert = require("assert"),
     fs = require('fs'),
     js2php = require('../index.js'),

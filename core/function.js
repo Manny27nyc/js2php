@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function apply(node, isCall) {
   var method, arguments = [];
 

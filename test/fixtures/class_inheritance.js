@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 class Page {
   constructor(title, body) {
     this.title = title

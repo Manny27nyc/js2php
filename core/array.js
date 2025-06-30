@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var utils = require('../utils'),
     scope = require('../scope');
     string = require('./string');

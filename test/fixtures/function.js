@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 function something(x, y = "something", z = 5) {
   var_dump(x, y, z);

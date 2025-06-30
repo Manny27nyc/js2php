@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var str1 = "one"
   , str2 = "two"
   , n1 = Math.PI

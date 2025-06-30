@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var one = "Hello".match(/llo/);
 var_dump(one);
 
